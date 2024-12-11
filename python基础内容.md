@@ -33,7 +33,7 @@ python使用"字符串"来表示"文本序列"
 			x=1+2j   x.real获取实部数值   x.imag获取虚部数值
 ```
 
-![image-20241009144942499](C:\Users\12774\AppData\Roaming\Typora\typora-user-images\image-20241009144942499.png)
+![image-20241009144942499](python%E5%9F%BA%E7%A1%80%E5%86%85%E5%AE%B9.assets/image-20241009144942499-1733920998023.png)
 
 ```
 地板除：确保两个数相除是一个整数，不是整数就向下取整(即 取比目标结果小的最大整数)
